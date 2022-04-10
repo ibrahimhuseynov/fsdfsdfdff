@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\one.cs\Restoran sifaris sistemi\Restoran sifaris sistemi\obj\Debug\Restoran sifaris sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\one.cs\Restoran sifaris sistemi\Restoran sifaris sistemi\obj\Debug\Restoran sifaris sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\one.cs\Restoran sifaris sistemi\Restoran sifaris sistemi\obj\Debug\Restoran sifaris sistemi.csproj.CoreCompileInputs.cache
